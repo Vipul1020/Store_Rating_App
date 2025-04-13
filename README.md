@@ -184,8 +184,6 @@ You will need to create users to test different roles. You can do this via the A
     \* Email: \`ac\_owner@example.com\`  
     \* Password: \`ValidPass6&\` \*(Use the plain text password for API login)\*
 
-\*\*⚠️ Important:\*\* These are \*examples\* for local development and testing only. Ensure these specific users exist in your database before trying to log in with them. Do not commit sensitive credentials or use weak passwords in production or shared repositories.
-
 \#\# API Endpoints Overview (Base Path: /api)
 
 \* \`/auth\`: Registration, Login, Password Change  
